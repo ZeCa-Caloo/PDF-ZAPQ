@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+plotly
+openpyxl
+chardet
+pytz
+python-docx
+reportlab
+beautifulsoup4
